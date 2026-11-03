@@ -1,0 +1,6 @@
+{
+  "name": "The Last Night – Haunted Hostel",
+  "description": "A 2D top-down indie horror adventure game. Explore an abandoned hostel, solve puzzles, collect five keys, avoid the vengeful spirit, and uncover the dark truth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
